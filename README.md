@@ -16,6 +16,11 @@ sudo pip3 install imutils
 python detect_barcode.py -c
 ```
 
+### Raspbery pi camera
+```
+python detect_barcode.py -c --use-pi-camera
+```
+
 ## Help
 ```
 python detect_barcode.py --help
